@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00BFFF&height=260&section=header&text=AYUSH%20%E2%80%A2%20AYUNATER&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=00BFFF&strokeWidth=2&desc=%E2%9A%A1%20AI%20%26%20ML%20Student%20%E2%80%A2%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20C%20%E2%9A%A1&descAlignY=65&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:00BFFF&height=260&section=header&text=AYUSH%20%E2%80%A2%20AYUNATER&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=00BFFF&strokeWidth=2&desc=%E2%9A%A1%20AI%20and%20ML%20Student%20%E2%80%A2%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20C%20%E2%9A%A1&descAlignY=65&descSize=20" width="100%" alt="header"/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding gif"/>
 
@@ -117,9 +117,7 @@
 <br/>
 <img src="https://streak-stats.demolab.com?user=ayunater&theme=radical&hide_border=true&border_radius=12" width="80%" alt="Streak"/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=ayunater&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayunater&theme=react-dark&hide_border=true&area=true&color=00E5FF&line=8A2BE2&point=FF1493" width="95%" alt="Activity Graph"/>
+<img src="https://ghchart.rshah.org/00BFFF/ayunater" width="95%" alt="Contribution chart"/>
 
 </div>
 
