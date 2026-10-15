@@ -63,26 +63,14 @@
 
 <div align="center">
 
-<a href="https://github.com/ayunater/readora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayunater&repo=readora&theme=tokyonight&hide_border=true&border_radius=12" alt="Readora"/>
-</a>
-<a href="https://github.com/ayunater/hotelease_hotel_management__system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayunater&repo=hotelease_hotel_management__system&theme=tokyonight&hide_border=true&border_radius=12" alt="HotelEase"/>
-</a>
-<br/>
-<a href="https://github.com/ayunater/food_ordering_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayunater&repo=food_ordering_system&theme=tokyonight&hide_border=true&border_radius=12" alt="Food Ordering"/>
-</a>
-<a href="https://github.com/ayunater/100-days-of-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayunater&repo=100-days-of-python&theme=tokyonight&hide_border=true&border_radius=12" alt="100 Days of Python"/>
-</a>
-<br/>
-<a href="https://github.com/ayunater/commit-to-career">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayunater&repo=commit-to-career&theme=tokyonight&hide_border=true&border_radius=12" alt="Commit to Career"/>
-</a>
-<a href="https://github.com/ayunater/menu-items">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayunater&repo=menu-items&theme=tokyonight&hide_border=true&border_radius=12" alt="Menu Items"/>
-</a>
+| 🧩 Project | 🛠️ Stack | 📝 What it does |
+|:--|:--|:--|
+| [**📄 Readora**](https://github.com/ayunater/readora) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-GUI-blueviolet?style=flat-square) | PDF reader and toolkit with PDFBox and FlatLaf, shipped as a native Windows EXE |
+| [**🏨 HotelEase**](https://github.com/ayunater/hotelease_hotel_management__system) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=mysql&logoColor=white) | Hotel management system, Swing and JDBC, client-server architecture |
+| [**🍔 Food Ordering System**](https://github.com/ayunater/food_ordering_system) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | GUI app to manage food items, hotel details and customer orders |
+| [**🐍 100 Days of Python**](https://github.com/ayunater/100-days-of-python) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | My 100-day Python journey in one organised file |
+| [**🚀 Commit to Career**](https://github.com/ayunater/commit-to-career) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Responsive portfolio and resume website |
+| [**🧾 Menu Items**](https://github.com/ayunater/menu-items) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | Menu-driven C program with clean input handling |
 
 </div>
 
